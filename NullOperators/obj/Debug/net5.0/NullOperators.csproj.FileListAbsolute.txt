@@ -1,0 +1,16 @@
+C:\Users\carmel\source\repos\CSharp\NullOperators\obj\Debug\net5.0\NullOperators.csproj.AssemblyReference.cache
+C:\Users\carmel\source\repos\CSharp\NullOperators\obj\Debug\net5.0\NullOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carmel\source\repos\CSharp\NullOperators\obj\Debug\net5.0\NullOperators.AssemblyInfoInputs.cache
+C:\Users\carmel\source\repos\CSharp\NullOperators\obj\Debug\net5.0\NullOperators.AssemblyInfo.cs
+C:\Users\carmel\source\repos\CSharp\NullOperators\obj\Debug\net5.0\NullOperators.csproj.CoreCompileInputs.cache
+C:\Users\carmel\source\repos\CSharp\NullOperators\bin\Debug\net5.0\NullOperators.exe
+C:\Users\carmel\source\repos\CSharp\NullOperators\bin\Debug\net5.0\NullOperators.deps.json
+C:\Users\carmel\source\repos\CSharp\NullOperators\bin\Debug\net5.0\NullOperators.runtimeconfig.json
+C:\Users\carmel\source\repos\CSharp\NullOperators\bin\Debug\net5.0\NullOperators.runtimeconfig.dev.json
+C:\Users\carmel\source\repos\CSharp\NullOperators\bin\Debug\net5.0\NullOperators.dll
+C:\Users\carmel\source\repos\CSharp\NullOperators\bin\Debug\net5.0\ref\NullOperators.dll
+C:\Users\carmel\source\repos\CSharp\NullOperators\bin\Debug\net5.0\NullOperators.pdb
+C:\Users\carmel\source\repos\CSharp\NullOperators\obj\Debug\net5.0\NullOperators.dll
+C:\Users\carmel\source\repos\CSharp\NullOperators\obj\Debug\net5.0\ref\NullOperators.dll
+C:\Users\carmel\source\repos\CSharp\NullOperators\obj\Debug\net5.0\NullOperators.pdb
+C:\Users\carmel\source\repos\CSharp\NullOperators\obj\Debug\net5.0\NullOperators.genruntimeconfig.cache
